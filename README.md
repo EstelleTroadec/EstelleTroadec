@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🌺 Estelle Maëva Troadec — Full-stack JS developper
+
+## 👩‍💻 About me
+
+Hi there ! My name is Estelle and I am a full-stack (front-end oriented) web developper.
+I am passionate about technologies and always keen to learn news things !
+
+📍 Paris, France
+📚 Studied wev developpment @ O'clock
+
+
 
 <!--
 **EstelleTroadec/EstelleTroadec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🕹 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+## 📊 Github analytics
+
+
+## 📫 How to reach me
+
 -->
