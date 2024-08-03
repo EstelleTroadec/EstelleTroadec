@@ -6,7 +6,8 @@ Hi there ! My name is Estelle and I am a full-stack (front-end oriented) web dev
 I am passionate about technologies and always keen to learn news things !
 
 📍 Paris, France
-📚 Studied wev developpment @ O'clock
+
+📚 Studied web developpment @ O'clock
 
 
 
