@@ -3,15 +3,20 @@
 ## 👩‍💻 About me
 
 Hi there ! My name is Estelle and I am a full-stack (front-end oriented) web developper.  
-I am passionate about technologies and always keen to learn news things !
+I am passionate about technologies and always keen to learn new things !
 
 📍 Paris, France  
 📚 Studied web developpment @ O'clock
 
 ## 🕹 Tech Stack
 
-- 🌐 **Front-end :** HTML5, CSS3, SCSS, Javascript, React, TypeScript  
-- 🔧 **Back-end :** NodeJS, Express, PostgreSQL
+- 🌐 **Front-end :**  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+  
+- 🔧 **Back-end :**  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ## 📫 How to reach me
 
