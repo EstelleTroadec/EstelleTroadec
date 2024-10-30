@@ -6,7 +6,8 @@ Hi there ! My name is Estelle and I am a full-stack (front-end oriented) web dev
 I am passionate about technologies and always keen to learn new things !
 
 📍 Paris, France  
-📚 Studied web developpment @ O'clock
+📚 Studied web developpment @ Ecole O'clock  
+<!-- 👩‍💻 [My portfolio](https://estelletroadec.github.io) -->
 
 ## 🎮 TECH STACK
 
@@ -15,7 +16,7 @@ I am passionate about technologies and always keen to learn new things !
 
   
 #### Back-end :  
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
 
 #### Tools :
